@@ -1,0 +1,25 @@
+{
+  "name": "ElitteMarcenaria",
+  "version": "1.0.0",
+  "description": "my first site",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErikPereira/ElitteMarcenaria.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErikPereira/ElitteMarcenaria/issues"
+  },
+  "homepage": "https://github.com/ErikPereira/ElitteMarcenaria#readme",
+  "dependencies": {
+    "next": "^12.0.10",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
